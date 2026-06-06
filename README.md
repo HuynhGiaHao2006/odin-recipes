@@ -1,1 +1,1 @@
-# odin-recipes
+A project used to review knowledge from the "HTML Foundations" set of lessons.
